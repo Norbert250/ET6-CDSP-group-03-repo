@@ -46,7 +46,8 @@ drive progress toward our shared goals.
   - **Vice-Coordinator**: Records outcomes and updates.  
   - **Technical Supervisor**: Oversees technical aspects.  
 - 🕔 Wait a max of 5 minutes for late members before proceeding.  
-- ⏱️ Start and end meetings on time with a clear agenda.  
+- ⏱️ Start and end meetings on time with a clear agenda.
+- ⏱️ Monday and Friday meeting days
 
 ### 5. ⚖️ Balancing Discussions and Debates  
 
