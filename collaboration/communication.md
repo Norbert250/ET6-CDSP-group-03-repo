@@ -17,7 +17,7 @@ How often we will get in touch through each channel, and what
 we will use them for:
 
 - **Slack – Main Communication Channel**  
-  - **Frequency**: As needed 
+  - **Frequency**: As needed
   - **Purpose**:  
     Task tracking, work assignment, bug/blocker reporting
 
@@ -42,14 +42,14 @@ we will use them for:
 
 ### Availability for Calls/Messages
 
-| Team Member | Monday   | Tuesday  | Wednesday | Thursday | Friday   | Saturday | Sunday   |
-|-------------|----------|----------|-----------|----------|----------|----------|----------|
-| Abel        | –        | –        | –         | –        | –        | –        | –        |
-| Viktoriya   | 9am–11am | 9am–11am | 9am–11am  | 9am–11am | 9am–11am | 9am–11am | 9am–11am |
-| Salem       | –        | –        | –         | –        | –        | –        | –        |
-| Raneem      | 9am–11am | 9am–11am | 9am–11am  | 9am–11am | 9am–11am | 9am–11am | 9am–11am |
-| Norbert     | –        | –        | –         | –        | –        | –        | –        |
-| Wour        | –        | –        | –         | –        | –        | –        | –        |
+| Member |Monday  |Tuesday |Wednesday|Thursday|Friday  |Saturday|Sunday  |
+|--------|--------|--------|---------|--------|--------|--------|--------|
+| Abel   |–       |–       |–        |–       |–       |–       |–       |
+| Vika   |9am–11am|9am–11am|9am–11am |9am–11am|9am–11am|9am–11am|9am–11am|
+| Salem  |–       |–       |–        |–       |–       |–       |–       |
+| Raneem |9am–11am|9am–11am|9am–11am |9am–11am|9am–11am|9am–11am|9am–11am|
+| Norbert|–       |–       |–        |–       |–       |–       |–       |
+| Wour   |–       |–       |–        |–       |–       |–       |–       |
 
 *Note: “–” indicates no fixed availability.*
 
