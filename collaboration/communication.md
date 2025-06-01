@@ -44,12 +44,12 @@ we will use them for:
 
 | Member |Monday  |Tuesday |Wednesday|Thursday|Friday  |Saturday|Sunday  |
 |--------|--------|--------|---------|--------|--------|--------|--------|
-| Abel   |–       |–       |–        |–       |–       |–       |–       |
-| Vika   |9am–11am|9am–11am|9am–11am |9am–11am|9am–11am|9am–11am|9am–11am|
-| Salem  |–       |–       |–        |–       |–       |–       |–       |
-| Raneem |9am–11am|9am–11am|9am–11am |9am–11am|9am–11am|9am–11am|9am–11am|
-| Norbert|–       |–       |–        |–       |–       |–       |–       |
-| Wour   |–       |–       |–        |–       |–       |–       |–       |
+| Abel   |9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|
+| Vika   |9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|
+| Salem  |9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|
+| Raneem |9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|
+| Norbert|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|
+| Wour   |9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|9am–11am|
 
 *Note: “–” indicates no fixed availability.*
 
